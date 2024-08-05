@@ -1,0 +1,29 @@
+_repo: Greek-tragedy_74167
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Norwood, Gilbert
+    birthdate: 1880
+    deathdate: 1954
+    gutenberg_agent_id: '42037'
+    url: http://www.gutenberg.org/2009/agents/42037
+    wikipedia: https://en.wikipedia.org/wiki/Gilbert_Norwood
+description: ''
+gutenberg_issued: '2024-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74167'
+language: en
+pgterms:marc904: https://archive.org/details/greektraged00norw
+pgterms:marc905: 20200413080528norwood
+pgterms:marc906: '1920'
+production_note: Turgut Dincer and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $bMethuen & Co. Ltd., $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Greek tragedy
+url: http://www.gutenberg.org/ebooks/74167
